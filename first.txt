@@ -1,1 +1,3 @@
-Hello everybody!
+Hello everybody! This is my first tempt of editing within a git project!"
+Let see what's happening!
+
